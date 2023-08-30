@@ -8,8 +8,8 @@
 ``Python``, ``pandas``, ``numpy``, ``seaborn``, ``SQL``, ``Clickhouse``, ``PostgreSQL``, ``Redash``, ``Airflow``, ``Tableau``, ``Git``
 <br>
 ### Навыки
-- Использую python для предобработки и анализа данных (pandas, numpy, seaborn, matplotlib)
-- Для визуализации применяю Tableau, Redash
-- Составляю запросы в ClickHouse и PostgreSQL (Оконные функции, агрегатные функции, JOIN)
-- Есть опыт анализа результатов A/B тестирования, проведения статистических тестов
-- Рассчитываю основные продуктовые метрики (ARPU, ARPPU, Retention, Churn rate и др.)
+- Использую **python** для предобработки и анализа данных (pandas, numpy, seaborn, matplotlib)
+- Для визуализации применяю **Tableau**, **Redash**
+- Составляю запросы в **ClickHouse** и **PostgreSQL** (Оконные функции, агрегатные функции, JOIN)
+- Есть опыт анализа результатов **A/B** тестирования, проведения статистических тестов
+- Рассчитываю основные **продуктовые метрики** (ARPU, ARPPU, Retention, Churn rate и др.)
