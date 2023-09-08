@@ -15,6 +15,6 @@
 - Рассчитываю основные **продуктовые метрики** (ARPU, ARPPU, Retention, Churn rate и др.)
 
 ### Контакты
-- telegram: https://t.me/vlasovams
-- почта: vlasovam.1996@gmail.com
+- **telegram**: https://t.me/vlasovams
+- **почта**: vlasovam.1996@gmail.com
 
